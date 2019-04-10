@@ -1,0 +1,1 @@
+Programm checks two texts and finds percent of matches.
